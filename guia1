@@ -1,0 +1,42 @@
+1//
+let a = 1;
+let b = 2;
+let c = 3;
+
+let resultado = a+b+c;
+console.log("la suma de las tres variables es:", resultado);
+2//
+let A = number(prompt("ingrese el primer numero"));
+let B = number(prompt("ingrese el segundo numero"));
+alert("la suma es: " + (a+b));
+3//
+let nombre = prompt("Ingresa tu nombre:");
+let edad = prompt("Ingresa tu edad:");
+console.log(`Hola ${nombre}, usted tiene ${edad} años`);
+4//
+let materia = prompt("Ingresa el nombre de la materia:");
+let nota1 = Number(prompt("Ingresa la nota del primer trimestre:"));
+let nota2 = Number(prompt("Ingresa la nota del segundo trimestre:"));
+let nota3 = Number(prompt("Ingresa la nota del tercer trimestre:"));
+
+let promedio = (nota1 + nota2 + nota3) / 3;
+
+console.log(`Usted tiene promedio ${promedio.toFixed(2)} en la materia ${materia}`);
+5//
+let base = Number(prompt("Ingrese la base del triángulo:"));
+let altura = Number(prompt("Ingrese la altura del triángulo:"));
+
+let superficie = (base * altura) / 2;
+console.log(`El triángulo tiene una superficie de ${superficie.toFixed(2)}`);
+7//
+let totalCostos = 0; 
+
+while (true) {
+    let distancia = +prompt("Distancia en km (0 para salir):");
+    if (distancia === 0) break;
+
+    let costoPorLitro = +prompt("Costo del litro de nafta:");
+    totalCostos += (distancia / 10) * costoPorLitro; 
+}
+
+console.log(`El costo total de los viajes es: $${totalCostos.toFixed(2)}`);

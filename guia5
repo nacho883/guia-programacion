@@ -1,0 +1,5 @@
+ls Lista los archivos y carpetas del directorio actual.
+cd Permite cambiar de directorio.
+pwd Muestra la ruta del directorio actual.
+mkdir Crea un directorio.
+New-Item Crea un archivo.
