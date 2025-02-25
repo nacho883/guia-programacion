@@ -1,23 +1,29 @@
-import fs from "fs";
+
 import { onEvent, sendEvent, startServer } from "soquetic";
+import { SerialPort } from "serialport";
+import fs from "fs";
 
-function guardarBoton(botonId) {
-   console.log(botonId);
-    sendEvent("botonPresionado", botonId);
+const port = new SerialPort({ path: 'COM4', baudRate: 9600 });
+
+function guardarBoton(boton, estado) {
+    sendEvent("botonPresionado", { boton, estado });
+
     let historial = [];
-
     if (fs.existsSync("historial.json")) {
-        const contenido = fs.readFileSync("historial.json", "utf8");
-        if (contenido.trim()) {  
-            historial = JSON.parse(contenido);
-        }
+        historial = JSON.parse(fs.readFileSync("historial.json", "utf8"));
     }
 
-    historial.push({ boton: `Botón ${botonId}` });
+    historial.push({ boton, estado });
 
     fs.writeFileSync("historial.json", JSON.stringify(historial, null, 2));
 }
 
+port.on("data", function (data) {
+    let message = data.toString().trim();
+    let [boton, estado] = message.split(":");
 
-guardarBoton(1);
+
+    guardarBoton(boton, estado);
+});
+
 startServer(3000);

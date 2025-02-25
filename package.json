@@ -1,6 +1,7 @@
 {
-  "type":"module" ,
+  "type": "module",
   "dependencies": {
+    "serialport": "^13.0.0",
     "soquetic": "^1.2.6"
   }
 }
