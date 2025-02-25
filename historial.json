@@ -31,5 +31,566 @@
   },
   {
     "boton": "Botón 1"
+  },
+  {
+    "boton": 1
+  },
+  {
+    "boton": 1
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON"
+  },
+  {
+    "boton": "_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_2"
+  },
+  {
+    "boton": ""
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_2"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_2"
+  },
+  {
+    "boton": ""
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_"
+  },
+  {
+    "boton": "4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_4"
+  },
+  {
+    "boton": ""
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_"
+  },
+  {
+    "boton": "4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON"
+  },
+  {
+    "boton": "_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_4"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_2"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_2"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_3"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_3"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_3"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_2"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_2"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_2"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_3"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_4\r\nBOTON_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_3"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_3"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_2"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_2"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_1"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_1"
+  },
+  {
+    "boton": "BOTON_1"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_1"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_1"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_1"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_1"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_1"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_3"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_3"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_3"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_3"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_3"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_3"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_2"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_2"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_2"
+  },
+  {
+    "boton": "BOTON"
+  },
+  {
+    "boton": "_2"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_3"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_3"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_2"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_2"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_2"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_3"
+  },
+  {
+    "boton": ""
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_3"
+  },
+  {
+    "boton": ""
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_3"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_4"
+  },
+  {
+    "boton": "BOTO"
+  },
+  {
+    "boton": "N_4"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_4"
+  },
+  {
+    "boton": ""
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_3"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_"
+  },
+  {
+    "boton": "3"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_3"
+  },
+  {
+    "boton": "BOT"
+  },
+  {
+    "boton": "ON_3"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_4"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON"
+  },
+  {
+    "boton": "_4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_"
+  },
+  {
+    "boton": "4"
+  },
+  {
+    "boton": "BO"
+  },
+  {
+    "boton": "TON_"
+  },
+  {
+    "boton": "4"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_4"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_4"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON_4"
+  },
+  {
+    "boton": "B"
+  },
+  {
+    "boton": "OTON"
+  },
+  {
+    "boton": "_4"
+  },
+  {
+    "boton": "BOTON_4"
+  },
+  {
+    "boton": "BOTON_3"
+  },
+  {
+    "boton": "BOTON_2"
+  },
+  {
+    "boton": "BOTON_1"
+  },
+  {
+    "boton": "BOTON_4"
+  },
+  {
+    "boton": "BOTON_4"
+  },
+  {
+    "boton": "BOTON_3"
+  },
+  {
+    "boton": "BOTON_2"
+  },
+  {
+    "boton": "BOTON_2"
+  },
+  {
+    "boton": "BOTON_2"
+  },
+  {
+    "boton": "BOTON_4"
   }
 ]

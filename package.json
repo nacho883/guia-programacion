@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "@serialport/parser-delimiter": "^13.0.0",
     "serialport": "^13.0.0",
     "soquetic": "^1.2.6"
   }

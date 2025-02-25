@@ -1,5 +1,5 @@
 connect2Server();
 
-receive("botonPresionado", (btnID) => {
-    console.log("Evento recibido en frontend:", btnID);
+receive("botonPresionado", (data) => {
+   alert(data.boton);
 });
